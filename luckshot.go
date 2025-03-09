@@ -1,6 +1,8 @@
 package luckshot
 
-import "math/rand"
+import (
+	"math/rand"
+)
 
 type LuckShot struct {
 	shot bool
